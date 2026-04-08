@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I’m Vaishali Purohit</h1>
-<p align="center"><b>Full Stack Developer | MSc Data Science Student</b></p>
+<p align="center"><b>Full Stack Developer</b></p>
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=vaishali-purohit)
 
 - 🔭 I'm a skilled full-stack developer with over 7+ years of experience delivering high-impact web applications across AI, Web3, Insurance, and Enterprise Tech domains. My expertise lies in architecting scalable SPAs and SSR platforms using **React.js, TypeScript, and Node.js**.
 
-- 🌱 I'm currently pursuing an **MSc in Data Science** from the University of Leicester, UK. I am building a strong foundation in statistical theory, probability, and mathematical modeling, with coursework focused on real-world data challenges and scientific computing.
-
 - 👯 I'm actively seeking opportunities to apply my technical expertise and data science knowledge to the **space industry**. I'm eager to work on innovative projects involving satellite data analysis, space mission software development, and aerospace data visualization platforms.
 
 - 📫 How to reach me: vaishalipurohit12@gmail.com
-
-**Connect with me:**
-
-<a href="https://www.linkedin.com/in/vaishali-purohit-92712b139/" rel="nofollow"><img src="https://i.sstatic.net/gVE0j.png" alt="linkedin" height="38" width="40"></a>
 
 ---
 
@@ -27,10 +21,6 @@
 ---
 
 ### Professional Experience
-
-* **Modelia, Spain - Senior Frontend Developer (Remote)** | Dec 2024 - Present
-    * Architected the company website and an AI fashion design studio from scratch.
-    * Supervised a small frontend team, leading sprint planning and code reviews.
 
 * **AXA Life Insurance, Japan - Full Stack Developer (Hybrid)** | April 2023 - Sept 2024
     * Improved application performance by refactoring existing code.
